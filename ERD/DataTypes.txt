@@ -1,0 +1,42 @@
+Type of Data 
+------------
+Employees: 
+
+emp_no is an Integer
+birth_date is a Date
+first_name is a Varchar as a String
+last_name is a Varchar as a String 
+gender is a Varchar as a String 
+hire_date is a Date 
+-------------
+Departments: 
+dept_no Varchar as a string or an integer either way 
+dept_name is a Varchar as a String 
+
+--------------
+Dept_manager: 
+dept_no Varchar as a string 
+emp_no integer as a number 
+from_date as a date
+to_date as a date 
+
+-------------
+Dept_emp: 
+dept_no Varchar as a string 
+emp_no integer as a number 
+from_date as a date
+to_date as a date 
+
+------------
+Salaries: 
+emp_no as an Integer, number
+salary Varchar as a String 
+from_date as a date
+to_date as a date
+
+------------
+tittles
+emp_no as an Integer, number
+title Varchar as a String 
+from_date as a date
+to_date as a date
